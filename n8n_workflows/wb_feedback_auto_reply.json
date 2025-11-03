@@ -1,0 +1,12 @@
+{
+  "name": "WB Feedback Auto Reply",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {},
+  "id": "wb_feedback_auto_reply",
+  "meta": {
+    "version": "1.116.2",
+    "description": "Auto reply workflow for Wildberries feedbacks"
+  }
+}

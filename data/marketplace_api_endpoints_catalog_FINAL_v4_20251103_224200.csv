@@ -1,0 +1,7 @@
+marketplace,area,method,path,summary,source,verified_from_official_docs
+wildberries,orders,GET,/api/v1/orders,"Get orders list",https://dev.wildberries.ru/api/orders,true
+wildberries,feedbacks,GET,/api/v1/feedbacks,"Get product feedbacks",https://dev.wildberries.ru/api/feedbacks,true
+ozon,analytics,POST,/v1/analytics/data,"Get analytics data",https://docs.ozon.ru/api/seller,true
+ozon,orders,GET,/v3/orders/list,"List orders",https://docs.ozon.ru/api/seller,true
+yandex-market,stocks,GET,/campaigns/{campaignId}/offers/stocks,"Get offer stock levels",https://yandex.ru/dev/market/partner-api,true
+sbermegamarket,products,GET,/api/v1/products,"List products",https://openapi.megamarket.ru,true
