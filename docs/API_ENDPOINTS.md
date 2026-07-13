@@ -1,6 +1,6 @@
 # API Endpoints Catalog
 
-_Generated: 2026-07-12 05:46:15Z UTC_
+_Generated: 2026-07-13 05:56:54Z UTC_
 
 | marketplace | area | method | path | summary | source |
 |---|---|---|---|---|---|
